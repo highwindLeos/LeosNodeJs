@@ -2,5 +2,22 @@
   "dependencies": {
     "express": "^4.18.1",
     "nodemailer": "^6.7.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "leosnodejs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highwindLeos/LeosNodeJs.git"
+  },
+  "author": "Leos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highwindLeos/LeosNodeJs/issues"
+  },
+  "homepage": "https://github.com/highwindLeos/LeosNodeJs#readme"
 }
